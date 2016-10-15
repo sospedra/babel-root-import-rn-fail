@@ -2,10 +2,10 @@
 
 ### Specs
 
-Device: iOs 10 simulator
-Os: macOs Yosemite
-Xcode: 8
-More versions: inside package.json
+* Device: iOs 10 simulator
+* Os: macOs Yosemite
+* Xcode: 8
+* More versions: inside package.json
 
 ### Side note
 
