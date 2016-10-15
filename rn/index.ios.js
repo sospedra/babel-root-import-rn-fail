@@ -6,6 +6,6 @@
 
 import { AppRegistry } from 'react-native';
 
-import RN from './App'
+import RN from '~/App'
 
 AppRegistry.registerComponent('rn', () => RN);
